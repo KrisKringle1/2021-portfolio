@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'newProfile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'Hi! My name is Kris Ringler and I’m your friendly neighborhood Developer. I specialize in React.js, Gatsby, and Shopify with a background in Digital Marketing and SEO. I spent the first portion of my career working in more hands on marketing jobs, until slowly progressing more towards the digital spectrum, to finally full-stack developer. Since becoming a developer, I’ve gravitated heavily towards Gatsby and React due to its quick development time, incredibly quick sites with built in lazy loading, and of course the SEO components that come with Gatsby. ',
+  paragraphTwo: 'I’ve been working with Shopify over this past year as its become the eCommerce giant that it is. I came on to work on some already established sites to maintain and got pretty familiar with the platform. I’ve built some collection pages, product pages, additional video features to products, and some other changes to these sites, but am currently building one from the ground up.',
+  paragraphThree: 'I’m looking to expand my work to more team environments and get some more experience working with databases and backend, so if you think I’d be a great fit for your team or could bring a unique perspective, reach out and I’d love to connect!',
   resume: 'https://www.linkedin.com/in/kris-ringler/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAVdTuUBV0pRjNwaG_8PBCO18JtdLQjFwK4,1612484426360)/', // if no resume, the button will not show up
 };
 
